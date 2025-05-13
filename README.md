@@ -1,2 +1,1 @@
-# hazma
-TEWQD
+testreg
